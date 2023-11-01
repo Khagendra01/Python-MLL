@@ -1,1 +1,3 @@
 # Python-MLL
+
+This repository is dedicated specially for my Artificial Intelligience class.
