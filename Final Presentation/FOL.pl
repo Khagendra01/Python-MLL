@@ -17,3 +17,6 @@ wise(aristotle).
 % Formulas
 forall(X, philosopher(X)).
 forall(X, wise(X) -> philosopher(X)).
+
+% consult('FOL.pl').
+% human(socrates), wise(socrates).
